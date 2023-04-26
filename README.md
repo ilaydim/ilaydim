@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilaydim
-- 👀 I’m interested in voleyol
+- 👀 I’m interested in software
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on learning software
 - 📫 How to reach me ilaydadim6@hotmail.com
