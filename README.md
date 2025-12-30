@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ilaydim
-- 👀 I’m interested in software
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on learning software
-- 📫 How to reach me dimilayda@gmail.com
+Hi, I’m @ilaydim. I’m looking to collaborate on learning software. How to reach me dimilayda@gmail.com
 
 <!---
 ilaydim/ilaydim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
