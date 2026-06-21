@@ -16,7 +16,7 @@ I build systems at the intersection of NLP/LLMs, deep learning, and software eng
 
 ## 🛠️ Tech Stack
 
-Python · JavaScript · Java · Kotlin · Django · PyTorch · OpenCV · RAG / Multi-Agent Systems
+Python · JavaScript · Java · Kotlin · Django · C++ · RAG / Multi-Agent Systems
 
 ## 📫 Contact
 
